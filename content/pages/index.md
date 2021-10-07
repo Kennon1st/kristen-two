@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Kristen. I help my clients look their best.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I will handle your hair from cuts to colors to shaves, all at an
+      affordable price.
     actions:
       - label: Contact Me
         url: /contact
